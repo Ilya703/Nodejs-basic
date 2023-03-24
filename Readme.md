@@ -1,6 +1,32 @@
-# Node.js basics 📬
+# Node.js basics 📖
 
-The CRUD API project allows clients to perform CRUD operations on a database of users. Specifically, clients can create new users, retrieve user by id, update users, and delete users from the database
+This project is a Node.js application that implements essential features of the language using its API. It can perform basic file operations (such as copy, move, delete, and rename) using the command line interface (CLI) and also utilizes the Streams API. Additionally, the application demonstrates the use of Worker Threads and Child Processes. It can obtain information about the host machine's operating system and is capable of performing hash calculations, as well as compressing and decompressing files
+
+### 🚀 Installation
+
+1. Clone the repository:
+
+```cmd
+git clone https://github.com/Ilya703/Nodejs-basic.git
+```
+
+2. Install the dependencies:
+
+```cmd
+npm install
+```
+
+3. Start the application:
+
+```cmd
+npm run start
+```
+
+### 🛠️ Built With:
+
+* JavaScript (ES6)
+* Node.js
+* Node.js APIs: fs, os, path, stream, zlib, crypto
 
 ### ⭐ Application features: 
 
